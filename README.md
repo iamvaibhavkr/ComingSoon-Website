@@ -1,3 +1,3 @@
 # ComingSoon-Website
-Coming soon page of my website.
-<a href="https://iamvaibhavkr.me">
+Coming soon page of my <a href="https://iamvaibhavkr.me"> website </a>.
+
